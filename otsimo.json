@@ -1,0 +1,46 @@
+{
+    "unique_name": "draw-letters",
+    "version": "1.0.0",
+    "main": "index.html",
+    "licence": "GPL-3.0",
+    "languages": [
+        "tr"
+    ],
+    "default_language": "tr",
+    "developer_name": "Otsimo",
+    "homepage": "https://github.com/otsimo/draw-letters",
+    "repository": "https://github.com:otsimo/draw-letters.git",
+    "authors": [
+        {
+            "name": "Otsimo",
+            "email": "info@otsimo.com"
+        }
+    ],
+    "exclude": [],
+    "settings": "settings.json",
+    "kv_path": "data",
+    "metadata": [
+        {
+            "language": "tr",
+            "visible_name": "Harf Çizimi",
+            "summary": "Harf yazımını öğreten çizim oyunudur.",
+            "description": "Çocuklar hem harfleri ve o harflerle başlayan kelimeleri tekrar edip hem de harflerin çizimini aşama aşama kolayca öğrenebilirler. Harflerin nasıl çizildiğini bilmeyen veya az bilen çocuklar için özel olarak geliştirilmiştir.",
+            "keywords": [
+                "çizim",
+                "harf"
+            ],
+            "logo": "i18n/tr/d-alphabet-s.png",
+            "icon": "i18n/tr/d-alphabet-b.png",
+            "images": [
+                "i18n/tr/ad-src.png",
+                "i18n/tr/ad-src2.png",
+                "i18n/tr/ad-src3.png"
+            ],
+            "assets": [
+                "img/en",
+                "audio/en"
+            ]
+        }
+    ],
+    "loading_color": "#FAC51C"
+}
