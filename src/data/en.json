@@ -491,14 +491,14 @@
             "path": "audio/sounde/hali.mp3"
         },
         {
-            "name": "i-_item_audio",
+            "name": "i_item_audio",
             "type": "audio",
-            "path": "audio/sounde/inek.mp3"
+            "path": "audio/sounde/islak_mendil.mp3"
         },
         {
             "name": "i_item_audio",
             "type": "audio",
-            "path": "audio/sounde/islak_mendil.mp3"
+            "path": "audio/sounde/inek.mp3"
         },
         {
             "name": "j_item_audio",
@@ -1224,7 +1224,7 @@
     ],
     "game": {
         "show_intro_drawing": true,
-        "session_step": 5,
+        "session_step": 10,
         "items": "alphabet",
         "scene_enter_duration": 500,
         "scene_leave_duration": 500,
