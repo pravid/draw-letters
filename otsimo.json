@@ -1,6 +1,6 @@
 {
     "unique_name": "draw-letters",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -42,5 +42,5 @@
             ]
         }
     ],
-    "loading_color": "#FAC51C"
+    "loading_color": "#3B653D"
 }
