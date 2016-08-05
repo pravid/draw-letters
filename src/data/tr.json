@@ -268,7 +268,7 @@
         {
             "name": "playButton",
             "type": "image",
-            "path": "img/tr/basla.png"
+            "path": "img/play.png"
         },
         {
             "name": "back",
@@ -915,11 +915,6 @@
             "type": "atlas",
             "path": "img/tr/atlas.png",
             "data": "img/tr/atlas.json"
-        },
-        {
-            "name": "big_A.png",
-            "type": "image",
-            "path": "img/big_A.png"
         },
         {
             "name": "hadi_a_harfini_cizelim",
