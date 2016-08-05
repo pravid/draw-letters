@@ -1,6 +1,6 @@
 {
     "unique_name": "draw-letters",
-    "version": "1.1.7",
+    "version": "1.1.9",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [

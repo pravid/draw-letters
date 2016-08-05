@@ -20,7 +20,7 @@ export default (() => {
         audio: path.join(cfg.paths.src.root, 'src', 'audio', '**', '*'),
         i18n_img: path.join(cfg.paths.src.root, 'i18n', '**', '*.png'),
         otsimojson: path.join(cfg.paths.src.root, 'otsimo.json'),
-        settingsjson: path.join(cfg.paths.src.root, 'node_modules', 'otsimo-drawing-game', 'settings.json'),
+        settingsjson: path.join(cfg.paths.src.root,  'settings.json'),
         i18n: path.join(cfg.paths.src.root, 'i18n')
     };
 
