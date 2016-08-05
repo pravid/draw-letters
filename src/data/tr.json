@@ -1,16 +1,8 @@
 {
-    "settings/difficulty/title": "Zorluk",
-    "settings/difficulty/description": "Oyunun zorluk ayarı",
     "settings/show_hint/title": "İpucu Göster",
     "settings/show_hint/description": "Oyunun içindeki ipucularını açar, kapar",
     "settings/hint_duration/title": "İpucu Süresi",
     "settings/hint_duration/description": "Oyunun içindeki ipuçlarının süresini değiştirir",
-    "settings/difficulty/keys/easy/title": "Kolay",
-    "settings/difficulty/keys/easy/description": "Kolay",
-    "settings/difficulty/keys/medium/title": "Orta",
-    "settings/difficulty/keys/medium/description": "Orta",
-    "settings/difficulty/keys/hard/title": "Zor",
-    "settings/difficulty/keys/hard/description": "Zor",
     "loading_screen": {
         "text": "Yükleniyor...",
         "font": "60px mfont",
