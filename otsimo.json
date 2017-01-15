@@ -44,5 +44,8 @@
             ]
         }
     ],
-    "loading_color": "#3B653D"
+    "loading_color": "#3B653D",
+    "labels": {
+        "categories": "drawing,letter,alphabet"
+    }
 }
