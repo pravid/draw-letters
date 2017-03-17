@@ -313,292 +313,272 @@
         {
             "name": "a_audio",
             "type": "audio",
-            "path": "audio/sound/a.mp3"
+            "path": "audio/eng/sound/a.mp3"
         },
         {
             "name": "b_audio",
             "type": "audio",
-            "path": "audio/sound/b.mp3"
+            "path": "audio/eng/sound/b.mp3"
         },
         {
             "name": "c_audio",
             "type": "audio",
-            "path": "audio/sound/c.mp3"
+            "path": "audio/eng/sound/c.mp3"
         },
         {
             "name": "d_audio",
             "type": "audio",
-            "path": "audio/sound/d.mp3"
+            "path": "audio/eng/sound/d.mp3"
         },
         {
             "name": "e_audio",
             "type": "audio",
-            "path": "audio/sound/e.mp3"
+            "path": "audio/eng/sound/e.mp3"
         },
         {
             "name": "f_audio",
             "type": "audio",
-            "path": "audio/sound/f.mp3"
+            "path": "audio/eng/sound/f.mp3"
         },
         {
             "name": "g_audio",
             "type": "audio",
-            "path": "audio/sound/g.mp3"
+            "path": "audio/eng/sound/g.mp3"
         },
         {
             "name": "h_audio",
             "type": "audio",
-            "path": "audio/sound/h.mp3"
-        },
-        {
-            "name": "i-_audio",
-            "type": "audio",
-            "path": "audio/sound/i-.mp3"
+            "path": "audio/eng/sound/h.mp3"
         },
         {
             "name": "i_audio",
             "type": "audio",
-            "path": "audio/sound/i.mp3"
+            "path": "audio/eng/sound/i.mp3"
         },
         {
             "name": "j_audio",
             "type": "audio",
-            "path": "audio/sound/j.mp3"
+            "path": "audio/eng/sound/j.mp3"
         },
         {
             "name": "k_audio",
             "type": "audio",
-            "path": "audio/sound/k.mp3"
+            "path": "audio/eng/sound/k.mp3"
         },
         {
             "name": "l_audio",
             "type": "audio",
-            "path": "audio/sound/l.mp3"
+            "path": "audio/eng/sound/l.mp3"
         },
         {
             "name": "m_audio",
             "type": "audio",
-            "path": "audio/sound/m.mp3"
+            "path": "audio/eng/sound/m.mp3"
         },
         {
             "name": "n_audio",
             "type": "audio",
-            "path": "audio/sound/n.mp3"
+            "path": "audio/eng/sound/n.mp3"
         },
         {
             "name": "p_audio",
             "type": "audio",
-            "path": "audio/sound/p.mp3"
+            "path": "audio/eng/sound/p.mp3"
+        },
+        {
+            "name": "q_audio",
+            "type": "audio",
+            "path": "audio/eng/sound/q.mp3"
         },
         {
             "name": "r_audio",
             "type": "audio",
-            "path": "audio/sound/r.mp3"
+            "path": "audio/eng/sound/r.mp3"
         },
         {
             "name": "s_audio",
             "type": "audio",
-            "path": "audio/sound/s.mp3"
-        },
-        {
-            "name": "s-_audio",
-            "type": "audio",
-            "path": "audio/sound/s-.mp3"
+            "path": "audio/eng/sound/s.mp3"
         },
         {
             "name": "t_audio",
             "type": "audio",
-            "path": "audio/sound/t.mp3"
+            "path": "audio/eng/sound/t.mp3"
         },
         {
             "name": "u_audio",
             "type": "audio",
-            "path": "audio/sound/u.mp3"
-        },
-        {
-            "name": "u-_audio",
-            "type": "audio",
-            "path": "audio/sound/u-.mp3"
+            "path": "audio/eng/sound/u.mp3"
         },
         {
             "name": "v_audio",
             "type": "audio",
-            "path": "audio/sound/v.mp3"
+            "path": "audio/eng/sound/v.mp3"
+        },
+        {
+            "name": "w_audio",
+            "type": "audio",
+            "path": "audio/eng/sound/w.mp3"
+        },
+        {
+            "name": "x_audio",
+            "type": "audio",
+            "path": "audio/eng/sound/x.mp3"
         },
         {
             "name": "y_audio",
             "type": "audio",
-            "path": "audio/sound/y.mp3"
+            "path": "audio/eng/sound/y.mp3"
         },
         {
             "name": "z_audio",
             "type": "audio",
-            "path": "audio/sound/z.mp3"
-        },
-        {
-            "name": "c-_audio",
-            "type": "audio",
-            "path": "audio/sound/c-.mp3"
+            "path": "audio/eng/sound/z.mp3"
         },
         {
             "name": "o_audio",
             "type": "audio",
-            "path": "audio/sound/o.mp3"
-        },
-        {
-            "name": "o-_audio",
-            "type": "audio",
-            "path": "audio/sound/o-.mp3"
+            "path": "audio/eng/sound/o.mp3"
         },
         {
             "name": "a_item_audio",
             "type": "audio",
-            "path": "audio/sounde/ayakkabi.mp3"
+            "path": "audio/eng/sounde/apple.mp3"
         },
         {
             "name": "b_item_audio",
             "type": "audio",
-            "path": "audio/sounde/bardak.mp3"
+            "path": "audio/eng/sounde/bird.mp3"
         },
         {
             "name": "c_item_audio",
             "type": "audio",
-            "path": "audio/sounde/ceviz.mp3"
+            "path": "audio/eng/sounde/car.mp3"
         },
         {
             "name": "d_item_audio",
             "type": "audio",
-            "path": "audio/sounde/dolap.mp3"
+            "path": "audio/eng/sounde/dog.mp3"
         },
         {
             "name": "e_item_audio",
             "type": "audio",
-            "path": "audio/sounde/eldiven.mp3"
+            "path": "audio/eng/sounde/egg.mp3"
         },
         {
             "name": "f_item_audio",
             "type": "audio",
-            "path": "audio/sounde/firca.mp3"
+            "path": "audio/eng/sounde/fish.mp3"
         },
         {
             "name": "g_item_audio",
             "type": "audio",
-            "path": "audio/sounde/gemi.mp3"
+            "path": "audio/eng/sounde/glass.mp3"
         },
         {
             "name": "h_item_audio",
             "type": "audio",
-            "path": "audio/sounde/hali.mp3"
+            "path": "audio/eng/sounde/horse.mp3"
         },
         {
             "name": "i_item_audio",
             "type": "audio",
-            "path": "audio/sounde/islak_mendil.mp3"
-        },
-        {
-            "name": "i_item_audio",
-            "type": "audio",
-            "path": "audio/sounde/inek.mp3"
+            "path": "audio/eng/sounde/ice-cream.mp3"
         },
         {
             "name": "j_item_audio",
             "type": "audio",
-            "path": "audio/sounde/jilet.mp3"
+            "path": "audio/eng/sounde/jacket.mp3"
         },
         {
             "name": "k_item_audio",
             "type": "audio",
-            "path": "audio/sounde/kitap.mp3"
+            "path": "audio/eng/sounde/knife.mp3"
         },
         {
             "name": "l_item_audio",
             "type": "audio",
-            "path": "audio/sounde/lale.mp3"
+            "path": "audio/eng/sounde/lemon.mp3"
         },
         {
             "name": "m_item_audio",
             "type": "audio",
-            "path": "audio/sounde/masa.mp3"
+            "path": "audio/eng/sounde/mouse.mp3"
         },
         {
             "name": "n_item_audio",
             "type": "audio",
-            "path": "audio/sounde/nehir.mp3"
+            "path": "audio/eng/sounde/notebook.mp3"
         },
         {
             "name": "p_item_audio",
             "type": "audio",
-            "path": "audio/sounde/patates.mp3"
+            "path": "audio/eng/sounde/pizza.mp3"
+        },
+        {
+            "name": "q_item_audio",
+            "type": "audio",
+            "path": "audio/eng/sounde/quince.mp3"
         },
         {
             "name": "r_item_audio",
             "type": "audio",
-            "path": "audio/sounde/resim.mp3"
+            "path": "audio/eng/sounde/rabbit.mp3"
         },
         {
             "name": "s_item_audio",
             "type": "audio",
-            "path": "audio/sounde/sarimsak.mp3"
-        },
-        {
-            "name": "s-_item_audio",
-            "type": "audio",
-            "path": "audio/sounde/sort.mp3"
+            "path": "audio/eng/sounde/sheep.mp3"
         },
         {
             "name": "t_item_audio",
             "type": "audio",
-            "path": "audio/sounde/tekerlek.mp3"
+            "path": "audio/eng/sounde/tiger.mp3"
         },
         {
             "name": "u_item_audio",
             "type": "audio",
-            "path": "audio/sounde/ucak.mp3"
-        },
-        {
-            "name": "u-_item_audio",
-            "type": "audio",
-            "path": "audio/sounde/utu.mp3"
+            "path": "audio/eng/sounde/umbrella.mp3"
         },
         {
             "name": "v_item_audio",
             "type": "audio",
-            "path": "audio/sounde/vazo.mp3"
+            "path": "audio/eng/sounde/vase.mp3"
+        },
+        {
+            "name": "w_item_audio",
+            "type": "audio",
+            "path": "audio/eng/sounde/watermelon.mp3"
+        },
+        {
+            "name": "x_item_audio",
+            "type": "audio",
+            "path": "audio/eng/sounde/xerox.mp3"
         },
         {
             "name": "y_item_audio",
             "type": "audio",
-            "path": "audio/sounde/yumurta.mp3"
+            "path": "audio/eng/sounde/yogurth.mp3"
         },
         {
             "name": "z_item_audio",
             "type": "audio",
-            "path": "audio/sounde/zarf.mp3"
-        },
-        {
-            "name": "c-_item_audio",
-            "type": "audio",
-            "path": "audio/sounde/cicek.mp3"
+            "path": "audio/eng/sounde/zebra.mp3"
         },
         {
             "name": "o_item_audio",
             "type": "audio",
-            "path": "audio/sounde/orman.mp3"
-        },
-        {
-            "name": "o-_item_audio",
-            "type": "audio",
-            "path": "audio/sounde/orgu.mp3"
+            "path": "audio/eng/sounde/oval.mp3"
         },
         {
             "name": "try_again",
             "type": "audio",
-            "path": "audio/tr/try_again.mp3"
+            "path": "audio/en/try-again!.mp3"
         },
         {
             "name": "victorySound",
             "type": "audio",
-            "path": "audio/tr/congratulations.mp3"
+            "path": "audio/en/congratulations!.mp3"
         },
         {
             "name": "finishSound",
@@ -917,284 +897,264 @@
             "data": "img/tr/atlas.json"
         },
         {
-            "name": "hadi_a_harfini_cizelim",
+            "name": "let's-draw-the-letter-a",
             "type": "audio",
-            "path": "audio/soundd/hadi_a_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-a.mp3"
         },
         {
-            "name": "hadi_b_harfini_cizelim",
+            "name": "let's-draw-the-letter-b",
             "type": "audio",
-            "path": "audio/soundd/hadi_b_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-b.mp3"
         },
         {
-            "name": "hadi_c_harfini_cizelim",
+            "name": "let's-draw-the-letter-c",
             "type": "audio",
-            "path": "audio/soundd/hadi_c_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-c.mp3"
         },
         {
-            "name": "hadi_c-_harfini_cizelim",
+            "name": "let's-draw-the-letter-d",
             "type": "audio",
-            "path": "audio/soundd/hadi_c-_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-d.mp3"
         },
         {
-            "name": "hadi_d_harfini_cizelim",
+            "name": "let's-draw-the-letter-e",
             "type": "audio",
-            "path": "audio/soundd/hadi_d_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-e.mp3"
         },
         {
-            "name": "hadi_e_harfini_cizelim",
+            "name": "let's-draw-the-letter-f",
             "type": "audio",
-            "path": "audio/soundd/hadi_e_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-f.mp3"
         },
         {
-            "name": "hadi_f_harfini_cizelim",
+            "name": "let's-draw-the-letter-g",
             "type": "audio",
-            "path": "audio/soundd/hadi_f_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-g.mp3"
         },
         {
-            "name": "hadi_g_harfini_cizelim",
+            "name": "let's-draw-the-letter-h",
             "type": "audio",
-            "path": "audio/soundd/hadi_g_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-h.mp3"
         },
         {
-            "name": "hadi_h_harfini_cizelim",
+            "name": "let's-draw-the-letter-i",
             "type": "audio",
-            "path": "audio/soundd/hadi_h_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-i.mp3"
         },
         {
-            "name": "hadi_i-_harfini_cizelim",
+            "name": "let's-draw-the-letter-j",
             "type": "audio",
-            "path": "audio/soundd/hadi_i-_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-j.mp3"
         },
         {
-            "name": "hadi_i_harfini_cizelim",
+            "name": "let's-draw-the-letter-k",
             "type": "audio",
-            "path": "audio/soundd/hadi_i_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-k.mp3"
         },
         {
-            "name": "hadi_j_harfini_cizelim",
+            "name": "let's-draw-the-letter-l",
             "type": "audio",
-            "path": "audio/soundd/hadi_j_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-l.mp3"
         },
         {
-            "name": "hadi_k_harfini_cizelim",
+            "name": "let's-draw-the-letter-m",
             "type": "audio",
-            "path": "audio/soundd/hadi_k_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-m.mp3"
         },
         {
-            "name": "hadi_l_harfini_cizelim",
+            "name": "let's-draw-the-letter-n",
             "type": "audio",
-            "path": "audio/soundd/hadi_l_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-n.mp3"
         },
         {
-            "name": "hadi_m_harfini_cizelim",
+            "name": "let's-draw-the-letter-o",
             "type": "audio",
-            "path": "audio/soundd/hadi_m_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-o.mp3"
         },
         {
-            "name": "hadi_n_harfini_cizelim",
+            "name": "let's-draw-the-letter-p",
             "type": "audio",
-            "path": "audio/soundd/hadi_n_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-p.mp3"
         },
         {
-            "name": "hadi_o_harfini_cizelim",
+            "name": "let's-draw-the-letter-q",
             "type": "audio",
-            "path": "audio/soundd/hadi_o_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-q.mp3"
         },
         {
-            "name": "hadi_o-_harfini_cizelim",
+            "name": "let's-draw-the-letter-r",
             "type": "audio",
-            "path": "audio/soundd/hadi_o-_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-r.mp3"
         },
         {
-            "name": "hadi_p_harfini_cizelim",
+            "name": "let's-draw-the-letter-s",
             "type": "audio",
-            "path": "audio/soundd/hadi_p_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-s.mp3"
         },
         {
-            "name": "hadi_r_harfini_cizelim",
+            "name": "let's-draw-the-letter-t",
             "type": "audio",
-            "path": "audio/soundd/hadi_r_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-t.mp3"
         },
         {
-            "name": "hadi_s_harfini_cizelim",
+            "name": "let's-draw-the-letter-u",
             "type": "audio",
-            "path": "audio/soundd/hadi_s_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-u.mp3"
         },
         {
-            "name": "hadi_s-_harfini_cizelim",
+            "name": "let's-draw-the-letter-v",
             "type": "audio",
-            "path": "audio/soundd/hadi_s-_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-v.mp3"
         },
         {
-            "name": "hadi_t_harfini_cizelim",
+            "name": "let's-draw-the-letter-w",
             "type": "audio",
-            "path": "audio/soundd/hadi_t_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-w.mp3"
         },
         {
-            "name": "hadi_u_harfini_cizelim",
+            "name": "let's-draw-the-letter-x",
             "type": "audio",
-            "path": "audio/soundd/hadi_u_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-x.mp3"
         },
         {
-            "name": "hadi_u-_harfini_cizelim",
+            "name": "let's-draw-the-letter-y",
             "type": "audio",
-            "path": "audio/soundd/hadi_u-_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-y.mp3"
         },
         {
-            "name": "hadi_v_harfini_cizelim",
+            "name": "let's-draw-the-letter-z",
             "type": "audio",
-            "path": "audio/soundd/hadi_v_harfini_cizelim.mp3"
+            "path": "audio/eng/soundd/let's-draw-the-letter-z.mp3"
         },
         {
-            "name": "hadi_y_harfini_cizelim",
+            "name": "begins-with-the-letter-a",
             "type": "audio",
-            "path": "audio/soundd/hadi_y_harfini_cizelim.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-a.mp3"
         },
         {
-            "name": "hadi_z_harfini_cizelim",
+            "name": "begins-with-the-letter-b",
             "type": "audio",
-            "path": "audio/soundd/hadi_z_harfini_cizelim.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-b.mp3"
         },
         {
-            "name": "kelimesi_a_harfi_ile_baslar",
+            "name": "begins-with-the-letter-c",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_a_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-c.mp3"
         },
         {
-            "name": "kelimesi_b_harfi_ile_baslar",
+            "name": "begins-with-the-letter-d",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_b_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-d.mp3"
         },
         {
-            "name": "kelimesi_c_harfi_ile_baslar",
+            "name": "begins-with-the-letter-e",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_c_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-e.mp3"
         },
         {
-            "name": "kelimesi_c-_harfi_ile_baslar",
+            "name": "begins-with-the-letter-f",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_c-_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-f.mp3"
         },
         {
-            "name": "kelimesi_d_harfi_ile_baslar",
+            "name": "begins-with-the-letter-g",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_d_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-g.mp3"
         },
         {
-            "name": "kelimesi_e_harfi_ile_baslar",
+            "name": "begins-with-the-letter-h",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_e_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-h.mp3"
         },
         {
-            "name": "kelimesi_f_harfi_ile_baslar",
+            "name": "begins-with-the-letter-i",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_f_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-i.mp3"
         },
         {
-            "name": "kelimesi_g_harfi_ile_baslar",
+            "name": "begins-with-the-letter-j",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_g_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-j.mp3"
         },
         {
-            "name": "kelimesi_h_harfi_ile_baslar",
+            "name": "begins-with-the-letter-k",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_h_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-k.mp3"
         },
         {
-            "name": "kelimesi_i-_harfi_ile_baslar",
+            "name": "begins-with-the-letter-l",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_i-_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-l.mp3"
         },
         {
-            "name": "kelimesi_i_harfi_ile_baslar",
+            "name": "begins-with-the-letter-m",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_i_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-m.mp3"
         },
         {
-            "name": "kelimesi_j_harfi_ile_baslar",
+            "name": "begins-with-the-letter-n",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_j_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-n.mp3"
         },
         {
-            "name": "kelimesi_k_harfi_ile_baslar",
+            "name": "begins-with-the-letter-o",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_k_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-o.mp3"
         },
         {
-            "name": "kelimesi_l_harfi_ile_baslar",
+            "name": "begins-with-the-letter-p",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_l_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-p.mp3"
         },
         {
-            "name": "kelimesi_m_harfi_ile_baslar",
+            "name": "begins-with-the-letter-q",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_m_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-q.mp3"
         },
         {
-            "name": "kelimesi_n_harfi_ile_baslar",
+            "name": "begins-with-the-letter-r",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_n_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-r.mp3"
         },
         {
-            "name": "kelimesi_o_harfi_ile_baslar",
+            "name": "begins-with-the-letter-s",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_o_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-s.mp3"
         },
         {
-            "name": "kelimesi_o-_harfi_ile_baslar",
+            "name": "begins-with-the-letter-t",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_o-_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-t.mp3"
         },
         {
-            "name": "kelimesi_p_harfi_ile_baslar",
+            "name": "begins-with-the-letter-u",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_p_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-u.mp3"
         },
         {
-            "name": "kelimesi_r_harfi_ile_baslar",
+            "name": "begins-with-the-letter-v",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_r_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-v.mp3"
         },
         {
-            "name": "kelimesi_s_harfi_ile_baslar",
+            "name": "begins-with-the-letter-w",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_s_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-w.mp3"
         },
         {
-            "name": "kelimesi_s-_harfi_ile_baslar",
+            "name": "begins-with-the-letter-x",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_s-_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-x.mp3"
         },
         {
-            "name": "kelimesi_t_harfi_ile_baslar",
+            "name": "begins-with-the-letter-y",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_t_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-y.mp3"
         },
         {
-            "name": "kelimesi_u_harfi_ile_baslar",
+            "name": "begins-with-the-letter-z",
             "type": "audio",
-            "path": "audio/soundc/kelimesi_u_harfi_ile_baslar.mp3"
-        },
-        {
-            "name": "kelimesi_u-_harfi_ile_baslar",
-            "type": "audio",
-            "path": "audio/soundc/kelimesi_u-_harfi_ile_baslar.mp3"
-        },
-        {
-            "name": "kelimesi_v_harfi_ile_baslar",
-            "type": "audio",
-            "path": "audio/soundc/kelimesi_v_harfi_ile_baslar.mp3"
-        },
-        {
-            "name": "kelimesi_y_harfi_ile_baslar",
-            "type": "audio",
-            "path": "audio/soundc/kelimesi_y_harfi_ile_baslar.mp3"
-        },
-        {
-            "name": "kelimesi_z_harfi_ile_baslar",
-            "type": "audio",
-            "path": "audio/soundc/kelimesi_z_harfi_ile_baslar.mp3"
+            "path": "audio/eng/soundc/begins-with-the-letter-z.mp3"
         }
     ],
     "game": {
