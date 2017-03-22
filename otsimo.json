@@ -1,6 +1,6 @@
 {
     "unique_name": "draw-letters",
-    "version": "1.2.6",
+    "version": "1.2.13",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -22,7 +22,7 @@
     "metadata": [
         {
             "language": "tr",
-            "visible_name": "Harf Çizimi",
+            "visible_name": "Harf Çizimiv4",
             "summary": "Harf yazımını öğreten çizim oyunudur.",
             "description": "Çocuklar hem harfleri ve o harflerle başlayan kelimeleri tekrar edip hem de harflerin çizimini aşama aşama kolayca öğrenebilirler. Harflerin nasıl çizildiğini bilmeyen veya az bilen çocuklar için özel olarak geliştirilmiştir.",
             "keywords": [
@@ -46,6 +46,6 @@
     ],
     "loading_color": "#3B653D",
     "labels": {
-        "categories": "drawing,letter,alphabet"
+        "categories": "match,drawing,letter,alphabet"
     }
 }
