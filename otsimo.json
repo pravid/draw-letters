@@ -1,6 +1,6 @@
 {
     "unique_name": "draw-letters",
-    "version": "1.7.18",
+    "version": "1.7.20",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -29,8 +29,8 @@
                 "çizim",
                 "harf"
             ],
-            "logo": "i18n/tr/d-alphabet-s.png",
-            "icon": "i18n/tr/d-alphabet-b.png",
+            "logo": "i18n/logo.png",
+            "icon": "i18n/icon.png",
             "images": [
                 "i18n/tr/dl-src.png",
                 "i18n/tr/dl-src-2.png",
