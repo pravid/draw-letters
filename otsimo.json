@@ -1,6 +1,6 @@
 {
     "unique_name": "draw-letters",
-    "version": "1.7.23",
+    "version": "1.7.26",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -46,6 +46,7 @@
     ],
     "loading_color": "#3B653D",
     "labels": {
-        "categories": "drawing,letter,alphabet"
+        "categories": "drawing,letter,alphabet",
+        "analytics": "playing-duration,success-failure"
     }
 }
